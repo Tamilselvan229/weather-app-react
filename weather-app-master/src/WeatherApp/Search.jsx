@@ -94,7 +94,7 @@ function Search()
                  <h5>Wind force<br/><b>{wind} KM/H</b></h5>
            </div>
            <footer>
-             <center><p>@Mohanraj 2024</p></center>
+             <center><p>@Tamil </p></center>
            </footer>
         </div>
         </>
